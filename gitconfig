@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ralph.coaquira.rubin@gmail.com
+	name = Ralph Coaquira
